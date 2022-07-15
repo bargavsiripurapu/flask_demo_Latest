@@ -38,6 +38,9 @@
 		</dependency>
 	</dependencies>
 	<properties>
+    		<failOnMissingWebXml>false</failOnMissingWebXml>   
+	</properties>
+	<properties>
    		<maven.compiler.source>6</maven.compiler.source>
    		<maven.compiler.target>1.6</maven.compiler.target>
  	</properties>
