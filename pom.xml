@@ -4,7 +4,7 @@
 	<groupId>in.javahome</groupId>
 	<artifactId>webapp</artifactId>
 	<packaging>war</packaging>
-	<version>0.0.1</version>
+	<version>0.0.109</version>
 	<name>flask_demo_latest</name>
 	<url>http://maven.apache.org</url>
 
