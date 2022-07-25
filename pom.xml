@@ -39,6 +39,8 @@
 	</dependencies>
 	
 	<properties>
+		<sonar.organization>devops-flask-project</sonar.organization>
+ 		<sonar.host.url>https://sonarcloud.io</sonar.host.url>
    		<maven.compiler.source>6</maven.compiler.source>
    		<maven.compiler.target>1.6</maven.compiler.target>
 		<failOnMissingWebXml>false</failOnMissingWebXml>
